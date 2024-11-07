@@ -182,3 +182,5 @@ while run:
     screen.blit(screamer, screamer_rect)
     pg.display.update()
 pg.quit()
+
+asdad = 234234
